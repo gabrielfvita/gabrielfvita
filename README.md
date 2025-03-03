@@ -43,7 +43,7 @@ Hello, my name is Gabriel Vita, I’m 18 years old, and I’m from Ribeirão Pre
       align="left" 
       alt="GitHub Stats" 
       height="130" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfvita&theme=tokyonight&layout=compact&custom_title=Most Used Languages" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfvita&theme=tokyonight&layout=compact&custom_title=Most%20Used%20Languages" 
   />
 
 </p>
