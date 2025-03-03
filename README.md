@@ -28,7 +28,7 @@ Hello, my name is Gabriel Vita, I’m 18 years old, and I’m from Ribeirão Pre
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gabrielfvita&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=gabrielfvita&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
 <img 
